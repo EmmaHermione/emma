@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,webtest.net
   - DOMAIN-KEYWORD,speedtest
   # Emby
+  - DOMAIN-KEYWORD,embyvip
   - DOMAIN-SUFFIX,emby.nexitally.com
   - DOMAIN-SUFFIX,emby.cjpc.cc
   - DOMAIN-SUFFIX,emby.flowercloud.yt
@@ -38,7 +39,6 @@ payload:
   - DOMAIN-SUFFIX,agahk1.jmsooo.com
   - DOMAIN-SUFFIX,agasg1.jmsooo.com
   - DOMAIN-SUFFIX,agajp1.jmsooo.com
-  - DOMAIN-SUFFIX,atomlantis.cloud
   - DOMAIN-SUFFIX,aws.jmsooo.com
   - DOMAIN-SUFFIX,ntt1.jmsooo.com
   - DOMAIN-SUFFIX,hinet.jmsooo.com
