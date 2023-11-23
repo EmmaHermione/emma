@@ -19,6 +19,7 @@ payload:
   - DOMAIN-KEYWORD,speedtest
   # Emby
   - DOMAIN-KEYWORD,embyvip
+  - DOMAIN-SUFFIX,aca.best
   - DOMAIN-SUFFIX,emby.nexitally.com
   - DOMAIN-SUFFIX,emby.cjpc.cc
   - DOMAIN-SUFFIX,emby.flowercloud.yt
